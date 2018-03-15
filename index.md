@@ -85,9 +85,9 @@ Here you can add some more text if you wish.
 # Add more code and comments
 ```
 
-At this point it would be a good idea to include an image of what the plot is meant to look like so people can check they've done it right. Replace `IMAGE_NAME.png` with your own image file:
+At this point it would be a good idea to include an image of what the plot is meant to look like so people can check they've done it right. Replace `trait_correlation.png` with your own image file:
 
-<center> <img src="{{ site.baseurl }}/IMAGE_NAME.png" alt="Img" style="width: 800px;"/> </center>
+<center> <img src="{{ site.baseurl }}/trait_correlation.png" alt="Img" style="width: 800px;"/> </center>
 
 This is the end of the tutorial. Here is a summary of what we learned:
 
